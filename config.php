@@ -2,7 +2,7 @@
 $ADMIN_INFO = NULL;
 $DEFAULT_KEYBOARD = NULL;
 // Update your base url.
-define("http://sital.com/", "");
+define("https://github.com/felixjinhyeongkim/sitalbot/", "");
 // Only access kakao server or not.
 define("IP_CHECK", TRUE);
 // Show all warnings or not.
